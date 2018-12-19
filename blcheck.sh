@@ -3,6 +3,9 @@
 # Check if an IP address is listed on one of the following blacklists
 # The shell will strip multiple whitespace 
 
+# Below is a link to a quick script I created to quickly idenify if a public routable IP address was listed on any blacklists. 
+# The script is easy to use and only takes a single IP address as an argument.
+
 BLISTS=" 
     cbl.abuseat.org
     dnsbl.sorbs.net
