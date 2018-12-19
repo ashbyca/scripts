@@ -1,6 +1,6 @@
 # Miscellaneous Scripts
 
-Collection of various scripts used to automate tasks, grouped by function.  Each script is represented with a readme where approipriate.  
+Collection of various scripts used to automate tasks, grouped by function.  Each script is represented with a readme where appropriate.  
 
 **Please note - these scripts aren't maintained anymore and your mileage may vary.**
 
