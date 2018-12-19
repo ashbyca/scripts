@@ -2,7 +2,7 @@
 
 Collection of various (IT) administration scripts used to automate specific tasks.  Each script is represented with a readme where approipriate.  
 
-**Please note - these scripts aren't maintained anymore and your mileage may vary.***
+**Please note - these scripts aren't maintained anymore and your mileage may vary.**
 
 ---
 
@@ -18,6 +18,8 @@ Collection of various (IT) administration scripts used to automate specific task
 | [Disable OSX Dashboard](https://github.com/ashbyca/rsc-admin/blob/master/Disable%20OSX%20Dashboard.zip) | Apple Script to disable OSX dashboard feature. |
 | [Remove INET Downloads](https://github.com/ashbyca/rsc-admin/blob/master/Remove%20INET%20Downloads.zip) | Apple Script to remove all internet downloads and cache. |
 
+---
+
 ### Security Analysis Scripts
 
 | Script  |  Purpose |
@@ -26,11 +28,15 @@ Collection of various (IT) administration scripts used to automate specific task
 | [blcheck.sh](https://github.com/ashbyca/rsc-admin/blob/master/blcheck.sh)     | Script to quickly identify if a public routable IP address is blacklisted. |
 | [vol_analysis.sh](https://github.com/ashbyca/rsc-admin/blob/master/vol_analysis.sh)     | Script to quickly extract artifacts from memory dumps dumps using volitility. |
 
+---
+
 ### MacOS Scripts
 
 To install, download each zip file above, extract the contents and copy to '''~/Library/Scripts'''.  Make sure to activate the menu option in Script Editor Preferences if you haven't already.  To execute the script, click the little scroll on the menu and select the one you want.
 
 **All scripts currently work with OSX v10.10 and below.**  
+
+---
 
 ### Copyright and license
 
