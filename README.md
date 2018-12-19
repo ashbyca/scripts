@@ -16,6 +16,14 @@ Collection of various (IT) administration scripts used to automate specific task
 | [dnslookup.bat](https://github.com/ashbyca/rsc-admin/blob/master/dnslookup.bat)     | Script to performs large dns lookups and write results to a file. |
 | [blcheck.sh](https://github.com/ashbyca/rsc-admin/blob/master/blcheck.sh)     | Script to quickly identify if a public routable IP address is blacklisted. |
 
+Lately I have been playing around with Apple Script Editor to automate some tasks on my OSX device. Descriptions and links are below if you find these useful or want to test:
+
+* [Disable OSX Dashboard]()
+* [Remove INET Downloads]()
+
+To install, download each zip file above, extract the contents and copy to '''~/Library/Scripts'''.
+Make sure to activate the menu option in Script Editor Preferences if you haven't already.
+All scripts currently work with OSX v10.10 and below.
 
 ### Copyright and license
 
