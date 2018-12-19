@@ -15,8 +15,8 @@ Collection of various (IT) administration scripts used to automate specific task
 | [term_logging.sh](https://github.com/ashbyca/rsc-admin/blob/master/terminal_logging.sh)    | Script to log all terminal sessions to local file in OSX.  |
 | [iptables.sh](https://github.com/ashbyca/rsc-admin/blob/master/iptables.sh) | Script to automate the setup of iptables in CentOS. |
 | [motd.sh](https://github.com/ashbyca/rsc-admin/blob/master/motd.sh) | Script to automate the setup of a MOTD banner in CentOS. |
-| [Disable OSX Dashboard](https://github.com/ashbyca/rsc-admin/blob/master/Disable%20OSX%20Dashboard.zip) | Apple Script to disable OSX dashboard feature. |
-| [Remove INET Downloads](https://github.com/ashbyca/rsc-admin/blob/master/Remove%20INET%20Downloads.zip) | Apple Script to remove all internet downloads and cache. |
+| [disable dashboard](https://github.com/ashbyca/rsc-admin/blob/master/Disable%20OSX%20Dashboard.zip) | Apple Script to disable OSX dashboard feature. |
+| [remove downloads](https://github.com/ashbyca/rsc-admin/blob/master/Remove%20INET%20Downloads.zip) | Apple Script to remove all internet downloads and cache. |
 
 ---
 
