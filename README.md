@@ -2,7 +2,7 @@
 
 Collection of various (IT) administration scripts used to automate specific tasks.  Each script is represented with a readme where approipriate.  
 
-*Please note that these aren't maintained anymore and your mileage may vary.
+Please note that these aren't maintained anymore and your mileage may vary.
 
 ### Various Administration Scripts
 
@@ -20,8 +20,8 @@ Collection of various (IT) administration scripts used to automate specific task
 
 I have been playing around with Apple Script Editor to automate some tasks on my OSX device.  Descriptions and links are below if you find these useful or want to test:
 
-1. [Disable OSX Dashboard](https://ashby.keybase.pub/Blog/Scripts/Disable%20OSX%20Dashboard.zip)
-2. [Remove INET Downloads](https://ashby.keybase.pub/Blog/Scripts/Remove%20INET%20Downloads.zip)
+1. [Disable OSX Dashboard](https://github.com/ashbyca/rsc-admin/blob/master/Disable%20OSX%20Dashboard.zip)
+2. [Remove INET Downloads](https://github.com/ashbyca/rsc-admin/blob/master/Remove%20INET%20Downloads.zip)
 
 * To install, download each zip file above, extract the contents and copy to '''~/Library/Scripts'''.
 * Make sure to activate the menu option in Script Editor Preferences if you haven't already.
