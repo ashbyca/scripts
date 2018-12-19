@@ -3,6 +3,7 @@
 # IPTables default configuration script for new servers
 # Author: Christopher Ashby
 # Last Updated: 9/1/2017
+# Script to install and setup IPTables and Fail2ban. After execution only ports 22/80/443 are accessible.
 
 # Requirements:
 # Redhat/CentOS 6
