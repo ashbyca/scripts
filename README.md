@@ -2,7 +2,9 @@
 
 Collection of various (IT) administration scripts used to automate specific tasks.  Each script is represented with a readme where approipriate.  
 
-***Please note - these scripts aren't maintained anymore and your mileage may vary.***
+**Please note - these scripts aren't maintained anymore and your mileage may vary.***
+
+---
 
 ### IT Operation Scripts
 
