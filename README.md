@@ -12,7 +12,7 @@ Collection of various (IT) administration scripts used to automate specific task
 | [term_logging.sh](https://ashby.keybase.pub/Blog/Scripts/terminal_logging.sh)    | Script to log all terminal sessions to local file in OSX.  |
 | [iptables.sh](https://ashby.keybase.pub/Blog/Scripts/iptables.sh) | Script to automate the setup of iptables in CentOS. |
 | [motd.sh](https://ashby.keybase.pub/Blog/Scripts/motd.sh) | Script to automate the setup of a MOTD banner in CentOS. |
-| [dnslookup.bat](https://ashby.keybase.pub/Blog/Scripts/dnslookup.bat)     | Script to performs large dns lookups and write results to a file. |
+| [dnslookup.bat](https://github.com/ashbyca/rsc-admin/blob/master/dnslookup.bat)     | Script to performs large dns lookups and write results to a file. |
 | [blcheck.sh](https://ashby.keybase.pub/Blog/Scripts/blcheck.sh)     | Script to quickly identify if a public routable IP address is blacklisted. |
 
 
