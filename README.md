@@ -31,6 +31,7 @@ A collection of various scripts used to automate tasks, grouped by function.  Ea
 | [dnslookup.bat](https://github.com/ashbyca/rsc-admin/blob/master/dnslookup.bat)     | Script to performs large dns lookups and write results to a file. |
 | [blcheck.sh](https://github.com/ashbyca/rsc-admin/blob/master/blcheck.sh)     | Script to quickly identify if a public routable IP address is blacklisted. |
 | [vol_analysis.sh](https://github.com/ashbyca/rsc-admin/blob/master/vol_analysis.sh)     | Script to quickly extract artifacts from memory dumps dumps using volitility. |
+| [twint_import.sh](https://github.com/ashbyca/rsc-admin/blob/master/twint_import.sh)     | Script to import relevant information from twitter using twint applciation.  |
 
 ---
 
