@@ -21,6 +21,7 @@ A collection of various scripts used to automate tasks, grouped by function.  Ea
 | [remove downloads](https://github.com/ashbyca/rsc-admin/blob/master/Remove%20INET%20Downloads.zip) | Apple Script to remove all internet downloads and cache. |
 | [gitupdate.sh](https://github.com/ashbyca/rsc-admin/blob/master/gitupdate.sh) | Script to automatically download all tool updates from github. |
 | [sslfree.sh](https://github.com/ashbyca/rsc-admin/blob/master/sslfree.sh) | Script to download, convert, and install SSL cert for lab. | 
+| [get-sysinfo.ps1](https://github.com/ashbyca/scripts/blob/master/get-sysinfo.ps1) | Get Complete details of any server or remote asset. |
 
 ---
 
