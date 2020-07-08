@@ -40,7 +40,7 @@ A collection of various scripts used to automate operational tasks, validate set
 
 | Script  |  Purpose |
 |:-----------:|:--------|
-| [hello.hta](https://github.com/ashbyca/rsc-admin/blob/master/htllo.hta)     | Script to validate if HTA files can execute on local hosts - Windows only. | 
+| [hello.hta](https://github.com/ashbyca/rsc-admin/blob/master/hello.hta)     | Script to validate if HTA files can execute on local hosts - Windows only. | 
 
 ---
 
