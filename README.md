@@ -2,9 +2,9 @@
 
 # Miscellaneous Scripts
 
-A collection of various scripts used to automate tasks, grouped by function.  Each script contains a readme section where appropriate.  
+A collection of various scripts used to automate operational tasks, validate settings, or perfrom automated stage1 analysis grouped together by function.  Each script contains a readme section where appropriate.  
 
-**Please note - these scripts aren't maintained anymore and your mileage may vary.**
+**Please note - these scripts aren't maintained until needed again so your mileage may vary.  All work for their purpose when uploaded.**
 
 ---
 
@@ -32,7 +32,15 @@ A collection of various scripts used to automate tasks, grouped by function.  Ea
 | [dnslookup.bat](https://github.com/ashbyca/rsc-admin/blob/master/dnslookup.bat)     | Script to performs large dns lookups and write results to a file. |
 | [blcheck.sh](https://github.com/ashbyca/rsc-admin/blob/master/blcheck.sh)     | Script to quickly identify if a public routable IP address is blacklisted. |
 | [vol_analysis.sh](https://github.com/ashbyca/rsc-admin/blob/master/vol_analysis.sh)     | Script to quickly extract artifacts from memory dumps dumps using volitility. |
-| [twint_import.sh](https://github.com/ashbyca/rsc-admin/blob/master/twint_import.sh)     | Script to import relevant information from twitter using twint applciation.  |
+| [twint_import.sh](https://github.com/ashbyca/rsc-admin/blob/master/twint_import.sh)     | Script to import relevant information from twitter using twint applciation.  | 
+
+---
+
+### Validation Scripts
+
+| Script  |  Purpose |
+|:-----------:|:--------|
+| [hello.hta](https://github.com/ashbyca/rsc-admin/blob/master/htllo.hta)     | Script to validate if HTA files can execute on local hosts - Windows only. | 
 
 ---
 
