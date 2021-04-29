@@ -34,7 +34,6 @@ A collection of various scripts used to automate operational tasks, validate set
 | [blcheck.sh](https://github.com/ashbyca/rsc-admin/blob/master/blcheck.sh)     | Script to quickly identify if a public routable IP address is blacklisted. |
 | [vol_analysis.sh](https://github.com/ashbyca/rsc-admin/blob/master/vol_analysis.sh)     | Script to quickly extract artifacts from memory dumps dumps using volitility. |
 | [twint_import.sh](https://github.com/ashbyca/rsc-admin/blob/master/twint_import.sh)     | Script to import relevant information from twitter using twint applciation.  | 
-| [box_malicious_test.txt](https://github.com/ashbyca/rsc-admin/blob/master/box_malicious_test.txt)     | Text document to trigger malicious detection rules on Box.  |
 
 ---
 
@@ -43,6 +42,7 @@ A collection of various scripts used to automate operational tasks, validate set
 | Script  |  Purpose |
 |:-----------:|:--------|
 | [hello.hta](https://github.com/ashbyca/rsc-admin/blob/master/hello.hta)     | Script to validate if HTA files can execute on local hosts - Windows only. | 
+| [box_malicious_test.txt](https://github.com/ashbyca/rsc-admin/blob/master/box_malicious_test.txt)     | Text document to trigger malicious detection rules on Box.  |
 
 ---
 
