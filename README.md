@@ -23,6 +23,7 @@ A collection of various scripts used to automate operational tasks, validate set
 | [sslfree.sh](https://github.com/ashbyca/rsc-admin/blob/master/sslfree.sh) | Script to download, convert, and install SSL cert for lab. | 
 | [get-sysinfo.ps1](https://github.com/ashbyca/scripts/blob/master/get-sysinfo.ps1) | Get Complete details of any server or remote asset. |
 | [osxsetup.sh](https://github.com/ashbyca/scripts/blob/master/osxsetup.sh) | OSX Setup script for new machines. |
+| [splunk-custom.py](https://github.com/ashbyca/scripts/blob/master/splunk-custom.py) | Script for transforming Splunk Alerts to Incidents. |
 
 ---
 
